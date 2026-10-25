@@ -7,7 +7,8 @@
 import ErrorBoundary from "@components/ErrorBoundary";
 import { Devs } from "@utils/constants";
 import definePlugin from "@utils/types";
-import { showToast, Toasts, Tooltip } from "@webpack/common";
+// import { showToast, Toasts, Tooltip } from "@webpack/common";
+import { showToast, Tooltip } from "@webpack/common";
 
 
 export default definePlugin({
